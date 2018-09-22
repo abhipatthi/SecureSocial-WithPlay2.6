@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Development\SecureSocial-WithPlay2.6\conf\application.conf,D:\Development\SecureSocial-WithPlay2.6\target\scala-2.12\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Development\SecureSocial-WithPlay2.6\conf\play.plugins,D:\Development\SecureSocial-WithPlay2.6\target\scala-2.12\classes\play.plugins)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Development\SecureSocial-WithPlay2.6\conf\routes,D:\Development\SecureSocial-WithPlay2.6\target\scala-2.12\classes\routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Development\SecureSocial-WithPlay2.6\conf\securesocial.conf,D:\Development\SecureSocial-WithPlay2.6\target\scala-2.12\classes\securesocial.conf)[0m

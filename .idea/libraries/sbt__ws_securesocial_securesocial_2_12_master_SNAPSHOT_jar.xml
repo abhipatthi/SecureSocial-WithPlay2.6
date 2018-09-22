@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: ws.securesocial:securesocial_2.12:master-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.12/jars/securesocial_2.12-master-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/ws.securesocial/securesocial_2.12/srcs/securesocial_2.12-master-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
